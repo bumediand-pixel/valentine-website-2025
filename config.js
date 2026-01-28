@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://github.com/bumediand-pixel/valentine-website-2025/tree/main?tab=readme-ov-file", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dxnwgakbz/video/upload/v1769637433/Florin_Salam_Ia-m%C4%83-n_bra%C8%9Be_via%C8%9Ba_mea_2025_pzybkx.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
